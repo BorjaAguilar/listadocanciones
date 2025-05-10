@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "spinning",
+        "url": "https://raw.githubusercontent.com/BorjaAguilar/listadocanciones/refs/heads/main/spinning.mp3.mp3"
+    },
+    {
+        "nombre": "gorila",
+        "url": "https://raw.githubusercontent.com/BorjaAguilar/listadocanciones/refs/heads/main/gorila.mp3.mp3"
+    },
+    {
+        "nombre": "stylish",
+        "url": "https://raw.githubusercontent.com/BorjaAguilar/listadocanciones/refs/heads/main/stylish.mp3.mp3"
+    }
+]
